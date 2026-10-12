@@ -1223,7 +1223,7 @@
   {
     "place_id": "osm:node:2428831260",
     "name": "Walmart",
-    "store_type": "quincaillerie",
+    "store_type": "grande_surface",
     "latitude": 46.872382,
     "longitude": -71.2047469,
     "address": "Rue d'Everell",
@@ -2620,7 +2620,7 @@
   {
     "place_id": "osm:node:5044883118",
     "name": "Walmart",
-    "store_type": "quincaillerie",
+    "store_type": "grande_surface",
     "latitude": 46.8245334,
     "longitude": -71.253026,
     "address": "552 Boulevard Wilfrid-Hamel",
@@ -4138,7 +4138,7 @@
   {
     "place_id": "osm:way:96358395",
     "name": "Walmart",
-    "store_type": "quincaillerie",
+    "store_type": "grande_surface",
     "latitude": 46.7822857,
     "longitude": -71.3487114,
     "address": "1470 Avenue Jules-Verne",
