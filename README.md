@@ -16,3 +16,14 @@ Ce fichier est une base de données dérivée d'OpenStreetMap. Toute réutilisat
 
 Tableau JSON. Chaque entrée : `place_id` (référence OSM), `name`, `store_type`, `latitude`, `longitude`, `address`,
 `postal_code`, `city`, `country`.
+
+## Fichiers par région (téléchargés par l'application)
+
+L'application lit `manifest.json` puis télécharge à la demande le fichier de la région choisie (`Canada/CA-QC.json`, etc.).
+`manifest.json` donne, pour chaque région, le nom, le nombre de magasins, la boîte englobante, la taille et l'empreinte
+SHA-256 du fichier : l'application refuse tout fichier dont l'empreinte diffère. `manifest.json` et les fichiers doivent donc
+toujours être publiés ensemble, depuis la même génération.
+
+- **Extraction :** extraits OpenStreetMap de Geofabrik (https://download.geofabrik.de), classés par type de magasin.
+- **Licence :** voir `ATTRIBUTION.md` (ODbL 1.0, © OpenStreetMap contributors).
+- Même format d'entrée que `storesSeed.json`.

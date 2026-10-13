@@ -1,0 +1,226 @@
+{
+  "version": 1,
+  "files": {
+    "CA-PE": {
+      "file": "Canada/CA-PE.json",
+      "name": "Île-du-Prince-Édouard",
+      "country": "CA",
+      "country_name": "Canada",
+      "version": "2026-10-12",
+      "generated_at": "2026-10-12T23:19:58.466Z",
+      "count": 200,
+      "bbox": [
+        45.9666769,
+        -64.2276626,
+        46.9506054,
+        -62.0835215
+      ],
+      "bytes": 52773,
+      "sha256": "7332591ffcc8757a37213ed192e5c9b2b4f86d03a20de3c6a50e048776635aef"
+    },
+    "CA-AB": {
+      "file": "Canada/CA-AB.json",
+      "name": "Alberta",
+      "country": "CA",
+      "country_name": "Canada",
+      "version": "2026-10-12",
+      "generated_at": "2026-10-12T23:19:58.466Z",
+      "count": 4495,
+      "bbox": [
+        49.0507093,
+        -119.90364489999999,
+        59.867441959999994,
+        -110.0029464
+      ],
+      "bytes": 1196735,
+      "sha256": "b248f0a75d642e5b25ed7b72ecb722cc87c7d8f4159b6752208dd3554f5e2d5f"
+    },
+    "CA-BC": {
+      "file": "Canada/CA-BC.json",
+      "name": "Colombie-Britannique",
+      "country": "CA",
+      "country_name": "Canada",
+      "version": "2026-10-12",
+      "generated_at": "2026-10-12T23:19:58.466Z",
+      "count": 5794,
+      "bbox": [
+        48.3476661,
+        -133.7022418,
+        59.9274335,
+        -114.88184728000002
+      ],
+      "bytes": 1545917,
+      "sha256": "2799f06ed3c729f95c5c545ab7b9785e2efd65050f55b88afaac039c62b44e01"
+    },
+    "CA-MB": {
+      "file": "Canada/CA-MB.json",
+      "name": "Manitoba",
+      "country": "CA",
+      "country_name": "Canada",
+      "version": "2026-10-12",
+      "generated_at": "2026-10-12T23:19:58.466Z",
+      "count": 1155,
+      "bbox": [
+        49.005581671428565,
+        -101.8753257,
+        58.7703303,
+        -92.08755466
+      ],
+      "bytes": 304955,
+      "sha256": "55ca472a4af65a4ac27c77ab40ecd44f0a463b9c4fd1f04303637c6539ddd7b2"
+    },
+    "CA-NB": {
+      "file": "Canada/CA-NB.json",
+      "name": "Nouveau-Brunswick",
+      "country": "CA",
+      "country_name": "Canada",
+      "version": "2026-10-12",
+      "generated_at": "2026-10-12T23:19:58.466Z",
+      "count": 909,
+      "bbox": [
+        44.6860152952381,
+        -68.70533534,
+        48.06612022,
+        -63.958248000000005
+      ],
+      "bytes": 239778,
+      "sha256": "9daf68a72309e969f9feb09d37654803bc6ff33b6b7888ba16277ee570728f4c"
+    },
+    "CA-NL": {
+      "file": "Canada/CA-NL.json",
+      "name": "Terre-Neuve-et-Labrador",
+      "country": "CA",
+      "country_name": "Canada",
+      "version": "2026-10-12",
+      "generated_at": "2026-10-12T23:19:58.466Z",
+      "count": 630,
+      "bbox": [
+        46.7379253,
+        -67.0868653,
+        56.543253883333335,
+        -52.69153554444444
+      ],
+      "bytes": 164130,
+      "sha256": "69a89c812290037aa1c0a9f5cca0c9986be29fff371adae62221cf7c527c08b7"
+    },
+    "CA-NS": {
+      "file": "Canada/CA-NS.json",
+      "name": "Nouvelle-Écosse",
+      "country": "CA",
+      "country_name": "Canada",
+      "version": "2026-10-12",
+      "generated_at": "2026-10-12T23:19:58.466Z",
+      "count": 1094,
+      "bbox": [
+        43.4454582,
+        -66.3520178,
+        46.9852163,
+        -59.9516648
+      ],
+      "bytes": 291892,
+      "sha256": "25e8d93d5360aee0c48f0c07556cd92041ec1370e8764af3045c02b3b4800583"
+    },
+    "CA-NT": {
+      "file": "Canada/CA-NT.json",
+      "name": "Territoires du Nord-Ouest",
+      "country": "CA",
+      "country_name": "Canada",
+      "version": "2026-10-12",
+      "generated_at": "2026-10-12T23:19:58.466Z",
+      "count": 66,
+      "bbox": [
+        60.002961033333335,
+        -135.00660779999998,
+        70.73636054,
+        -111.87908054444443
+      ],
+      "bytes": 17326,
+      "sha256": "581b95d39c476031ee27ec6325fa083c84104fe1a5c56db54784f755e1e629a4"
+    },
+    "CA-NU": {
+      "file": "Canada/CA-NU.json",
+      "name": "Nunavut",
+      "country": "CA",
+      "country_name": "Canada",
+      "version": "2026-10-12",
+      "generated_at": "2026-10-12T23:19:58.466Z",
+      "count": 76,
+      "bbox": [
+        52.24611162727272,
+        -115.11395000588236,
+        74.6976047,
+        -64.0223633
+      ],
+      "bytes": 19361,
+      "sha256": "b289af2d379113db2c56b0f8126068fde74eff1667924c6d2ea9f3528874a25e"
+    },
+    "CA-ON": {
+      "file": "Canada/CA-ON.json",
+      "name": "Ontario",
+      "country": "CA",
+      "country_name": "Canada",
+      "version": "2026-10-12",
+      "generated_at": "2026-10-12T23:19:58.466Z",
+      "count": 15993,
+      "bbox": [
+        41.81173238,
+        -94.79621238,
+        55.0120596,
+        -74.3630553
+      ],
+      "bytes": 4152336,
+      "sha256": "938c25621bea19f7c34cc2b73d9ec51e0df4cc835899e633ba85f3803d738a8a"
+    },
+    "CA-QC": {
+      "file": "Canada/CA-QC.json",
+      "name": "Québec",
+      "country": "CA",
+      "country_name": "Canada",
+      "version": "2026-10-12",
+      "generated_at": "2026-10-12T23:19:58.466Z",
+      "count": 8837,
+      "bbox": [
+        45.0053328,
+        -79.49762852,
+        62.4180618,
+        -57.1326725
+      ],
+      "bytes": 2318737,
+      "sha256": "b612ebf26dda27e3a5462cf11ed632386cbb369f60756de11161ae417b361a2a"
+    },
+    "CA-SK": {
+      "file": "Canada/CA-SK.json",
+      "name": "Saskatchewan",
+      "country": "CA",
+      "country_name": "Canada",
+      "version": "2026-10-12",
+      "generated_at": "2026-10-12T23:19:58.466Z",
+      "count": 975,
+      "bbox": [
+        49.111295616666666,
+        -110.006151,
+        59.31950134,
+        -101.44349553333333
+      ],
+      "bytes": 259674,
+      "sha256": "282d75e7a67204d43c60552deeb545cc46ed58a510e1c1fbe8a6fd7ff6269e68"
+    },
+    "CA-YT": {
+      "file": "Canada/CA-YT.json",
+      "name": "Yukon",
+      "country": "CA",
+      "country_name": "Canada",
+      "version": "2026-10-12",
+      "generated_at": "2026-10-12T23:19:58.466Z",
+      "count": 51,
+      "bbox": [
+        60.06035380000001,
+        -139.8233431,
+        67.5709339,
+        -128.70197579
+      ],
+      "bytes": 13780,
+      "sha256": "0c46ffaca856d52204dbeac57a09a817ae39d8afcec98b691f0d3e993631aca3"
+    }
+  }
+}
