@@ -221,6 +221,1366 @@
       ],
       "bytes": 13780,
       "sha256": "0c46ffaca856d52204dbeac57a09a817ae39d8afcec98b691f0d3e993631aca3"
+    },
+    "FR-GF": {
+      "file": "France/FR-GF.json",
+      "name": "Guyane",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 487,
+      "bbox": [
+        3.170307,
+        -54.4367213,
+        5.7372981,
+        -51.8002952
+      ],
+      "bytes": 126248,
+      "sha256": "71fa611df4e7b77fd22549d9363d76a49286550756c90cf3b994842c550019f4"
+    },
+    "FR-alsace": {
+      "file": "France/FR-alsace.json",
+      "name": "Alsace",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 2635,
+      "bbox": [
+        47.4803535,
+        6.9420346,
+        49.0623082,
+        8.1806827
+      ],
+      "bytes": 697815,
+      "sha256": "06ab0571d07d20838c591988ac273616eb6b42c28280ee62e00b393d11a3edb5"
+    },
+    "FR-aquitaine": {
+      "file": "France/FR-aquitaine.json",
+      "name": "Aquitaine",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 6271,
+      "bbox": [
+        42.7880299,
+        -1.7843341,
+        45.6236635375,
+        1.4066443
+      ],
+      "bytes": 1632599,
+      "sha256": "1ccc19599285156830b46a74717d853d38474e86c0b0efdeeba94c320d4a7c22"
+    },
+    "FR-auvergne": {
+      "file": "France/FR-auvergne.json",
+      "name": "Auvergne",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 2344,
+      "bbox": [
+        44.6449481,
+        2.1363888,
+        46.75681684615384,
+        4.4350439
+      ],
+      "bytes": 599197,
+      "sha256": "90e0ae467db8174e03f45fbdac8d41e5d7faee3e525b55dbffb43607379717f2"
+    },
+    "FR-basse-normandie": {
+      "file": "France/FR-basse-normandie.json",
+      "name": "Basse-Normandie",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 2604,
+      "bbox": [
+        48.2251816,
+        -1.9218026,
+        49.7109829,
+        0.9031574
+      ],
+      "bytes": 664592,
+      "sha256": "693d6e13e6a8110fcdeeca5187d339595ad146a04597d9724b29a1c2103e930f"
+    },
+    "FR-bourgogne": {
+      "file": "France/FR-bourgogne.json",
+      "name": "Bourgogne",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 3136,
+      "bbox": [
+        46.1797775,
+        2.881377,
+        48.3516184,
+        5.5053165
+      ],
+      "bytes": 798814,
+      "sha256": "ba6b5e73aecb1154a33f7bab41d2a8ea6f854bb2b8f5c4c3af70862c94f545d1"
+    },
+    "FR-bretagne": {
+      "file": "France/FR-bretagne.json",
+      "name": "Bretagne",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 5434,
+      "bbox": [
+        47.2936308,
+        -5.102281727272727,
+        48.8586649,
+        -1.0359964
+      ],
+      "bytes": 1424223,
+      "sha256": "891535cf378aa2ca158138fc4f28f0a0fa032b5e876fa6989a066533c5acb187"
+    },
+    "FR-centre": {
+      "file": "France/FR-centre.json",
+      "name": "Centre",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 4044,
+      "bbox": [
+        46.4240424,
+        0.07720763333333333,
+        48.8827785,
+        3.0671801000000003
+      ],
+      "bytes": 1043455,
+      "sha256": "1bd061b4aea0eb13f728cd24128a47a0ca84bc00d05aedd6e2b6e4c88b1bd34d"
+    },
+    "FR-champagne-ardenne": {
+      "file": "France/FR-champagne-ardenne.json",
+      "name": "Champagne Ardenne",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 1901,
+      "bbox": [
+        47.6537463,
+        3.4353304,
+        50.16255821111111,
+        5.7575378
+      ],
+      "bytes": 489956,
+      "sha256": "c66d7063dc641ace61e1c548373618c317dd24fadf5cfec8b90e0152a5485752"
+    },
+    "FR-corse": {
+      "file": "France/FR-corse.json",
+      "name": "Corse",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 723,
+      "bbox": [
+        41.3867222,
+        8.5955032,
+        42.965420280000004,
+        9.5550068
+      ],
+      "bytes": 179183,
+      "sha256": "821de7642fb17c50241c79d87644746dff8c5461dde000c6962efc33719ecb0f"
+    },
+    "FR-franche-comte": {
+      "file": "France/FR-franche-comte.json",
+      "name": "Franche Comte",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 2159,
+      "bbox": [
+        46.269348,
+        5.3276604,
+        47.9697202,
+        7.1155232
+      ],
+      "bytes": 552647,
+      "sha256": "7984769d85b9d8f6d7a1d0281ef3526a48518b68d545910a6fa96d2225993d7b"
+    },
+    "FR-guadeloupe": {
+      "file": "France/FR-guadeloupe.json",
+      "name": "Guadeloupe",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 776,
+      "bbox": [
+        15.8485581,
+        -61.803377,
+        16.473459536363638,
+        -61.064644671428574
+      ],
+      "bytes": 196192,
+      "sha256": "c9d2f8ba9040d92f425552e662d3ae028a093ed228a12ea50b4abbb6f5e95f09"
+    },
+    "FR-haute-normandie": {
+      "file": "France/FR-haute-normandie.json",
+      "name": "Haute-Normandie",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 2440,
+      "bbox": [
+        48.7284451,
+        0.076518,
+        50.0614136,
+        1.7914185
+      ],
+      "bytes": 641767,
+      "sha256": "9c4f4358c2d90dd772751b1b1c0ae97e3223877eccadca816fe7dacc5feca705"
+    },
+    "FR-ile-de-france": {
+      "file": "France/FR-ile-de-france.json",
+      "name": "Ile-de-France",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 17479,
+      "bbox": [
+        48.1374836,
+        1.4831937,
+        49.2069931,
+        3.42277792
+      ],
+      "bytes": 4484059,
+      "sha256": "6cc39328bfc17627e1d63984abaaf75937a27625353737c1a1d521ecf38b752d"
+    },
+    "FR-languedoc-roussillon": {
+      "file": "France/FR-languedoc-roussillon.json",
+      "name": "Languedoc-Roussillon",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 5857,
+      "bbox": [
+        42.3608706,
+        1.733519,
+        44.8833973,
+        4.7996769
+      ],
+      "bytes": 1513966,
+      "sha256": "0de56bfd6d20afd5a2c8b0aa2cbf062b7fde8d888a28a872d23836934b4e3308"
+    },
+    "FR-limousin": {
+      "file": "France/FR-limousin.json",
+      "name": "Limousin",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 1347,
+      "bbox": [
+        44.9290135,
+        0.6952108,
+        46.4240424,
+        2.5022946571428575
+      ],
+      "bytes": 355144,
+      "sha256": "580d73949a961fbdd780948d8646f1b19890132b4f04c5db7b3025155616ea48"
+    },
+    "FR-lorraine": {
+      "file": "France/FR-lorraine.json",
+      "name": "Lorraine",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 3095,
+      "bbox": [
+        47.855555,
+        4.981686266666666,
+        49.5664864,
+        7.625631744444444
+      ],
+      "bytes": 787816,
+      "sha256": "37d62c719685db4fd2f571da6e265e0518ebb23839090d66752910d03f67ec40"
+    },
+    "FR-martinique": {
+      "file": "France/FR-martinique.json",
+      "name": "Martinique",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 392,
+      "bbox": [
+        14.43415002,
+        -61.183374433333334,
+        14.8745474,
+        -60.8374667
+      ],
+      "bytes": 100883,
+      "sha256": "fe6fb81e343e5940133e87c21e269be3c0a584c2664ab9b64024811a4f836d04"
+    },
+    "FR-mayotte": {
+      "file": "France/FR-mayotte.json",
+      "name": "Mayotte",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 677,
+      "bbox": [
+        -12.9905017,
+        45.0519604,
+        -12.6805357,
+        45.2804807
+      ],
+      "bytes": 167966,
+      "sha256": "c26ecdb21d2a34169c10321bed9f9f053e54919c93a0b4a0ff3a29ba4c82a7ed"
+    },
+    "FR-midi-pyrenees": {
+      "file": "France/FR-midi-pyrenees.json",
+      "name": "Midi-Pyrenees",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 5214,
+      "bbox": [
+        42.5884402,
+        -0.2132902,
+        45.0327226,
+        3.3597618
+      ],
+      "bytes": 1340755,
+      "sha256": "c2d7459592c84f84dfc689b8b3b01420a833c15c9047199b4b6bbe0dab240ce2"
+    },
+    "FR-nord-pas-de-calais": {
+      "file": "France/FR-nord-pas-de-calais.json",
+      "name": "Nord-Pas-de-Calais",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 5295,
+      "bbox": [
+        49.9900886,
+        1.563032,
+        51.0797998,
+        4.1775414
+      ],
+      "bytes": 1384569,
+      "sha256": "5622e230819c5abe29406fbb3f7349a95cd5878d7307a6ecccef0eb9d14a413d"
+    },
+    "FR-pays-de-la-loire": {
+      "file": "France/FR-pays-de-la-loire.json",
+      "name": "Pays de la Loire",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 5702,
+      "bbox": [
+        46.3142182,
+        -2.5475903142857144,
+        48.4794541,
+        0.7918954
+      ],
+      "bytes": 1477492,
+      "sha256": "029ab32f03a6fecf30c2015534cf83c031b302ed68507e6cf394909510858dca"
+    },
+    "FR-picardie": {
+      "file": "France/FR-picardie.json",
+      "name": "Picardie",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 2521,
+      "bbox": [
+        48.8963021,
+        1.3855776363636365,
+        50.3398897,
+        4.2031781
+      ],
+      "bytes": 672083,
+      "sha256": "2a6238e5d7a86d97127be2cedc01be5216faa65bcef90e8ec821a6b988a936af"
+    },
+    "FR-poitou-charentes": {
+      "file": "France/FR-poitou-charentes.json",
+      "name": "Poitou-Charentes",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 3190,
+      "bbox": [
+        45.1295136,
+        -1.5426881,
+        47.1247694,
+        1.0876477
+      ],
+      "bytes": 830797,
+      "sha256": "f74ff400b37f8bde74dc87eeada15df0c34fd3484bb813bea71b366463aa6d29"
+    },
+    "FR-provence-alpes-cote-d-azur": {
+      "file": "France/FR-provence-alpes-cote-d-azur.json",
+      "name": "Provence Alpes-Cote-d'Azur",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 8823,
+      "bbox": [
+        43.0000958,
+        4.3804042,
+        45.0457919,
+        7.6158972
+      ],
+      "bytes": 2274402,
+      "sha256": "adfc68a7ad0f3715767aa97e94943d03a9f94b90560f7413e03accca66aa272d"
+    },
+    "FR-reunion": {
+      "file": "France/FR-reunion.json",
+      "name": "Reunion",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 1106,
+      "bbox": [
+        -21.3821104,
+        55.219931537499995,
+        -20.8731565,
+        55.824712
+      ],
+      "bytes": 287595,
+      "sha256": "4e11ab15dc91e8702f1dec1d6ceffe4182b221d5364c3acef793c849579b0551"
+    },
+    "FR-rhone-alpes": {
+      "file": "France/FR-rhone-alpes.json",
+      "name": "Rhone-Alpes",
+      "country": "FR",
+      "country_name": "France",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T01:33:53.901Z",
+      "count": 11300,
+      "bbox": [
+        44.1738588,
+        3.7497711,
+        46.461895119999994,
+        7.0545052
+      ],
+      "bytes": 2889986,
+      "sha256": "a078b7a383399ce3cd28d5ec2a72387f9228361c76676c4a4ede0deca5023600"
+    },
+    "US-AK": {
+      "file": "Etats-Unis/US-AK.json",
+      "name": "us/alaska",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 611,
+      "bbox": [
+        51.86544403750001,
+        -176.63718632500002,
+        71.298987,
+        -129.987012
+      ],
+      "bytes": 162028,
+      "sha256": "6c5e841a1a96be071c13ebb20ebd5d458de7e174892791fdba58b399a02978ce"
+    },
+    "US-AL": {
+      "file": "Etats-Unis/US-AL.json",
+      "name": "us/alabama",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 3096,
+      "bbox": [
+        30.238847599999996,
+        -88.4122577,
+        34.99148702,
+        -85.0050753
+      ],
+      "bytes": 824388,
+      "sha256": "b046ab1ffa60bab497f6830f828520fc4618ffa5b80808437c83809f88cff331"
+    },
+    "US-AR": {
+      "file": "Etats-Unis/US-AR.json",
+      "name": "us/arkansas",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 2074,
+      "bbox": [
+        33.019155999999995,
+        -94.56738149999998,
+        36.5048326,
+        -89.84035430000002
+      ],
+      "bytes": 566080,
+      "sha256": "9502a2a9fb4841245f10a538022a7141feee576e52baae19a6f29e81e6046e22"
+    },
+    "US-AZ": {
+      "file": "Etats-Unis/US-AZ.json",
+      "name": "us/arizona",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 5345,
+      "bbox": [
+        31.3310991,
+        -114.78828707777777,
+        36.99940138,
+        -109.04555408750002
+      ],
+      "bytes": 1487473,
+      "sha256": "73667f2af4a28e49c647856e6bbe433d10e47b6747db5ab85d604046ac3c7586"
+    },
+    "US-CA": {
+      "file": "Etats-Unis/US-CA.json",
+      "name": "us/california",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 22011,
+      "bbox": [
+        32.5424548,
+        -124.2647359,
+        41.99489961764705,
+        -114.4055069
+      ],
+      "bytes": 5934952,
+      "sha256": "5639d2976baf8caac37743cc4286bfba9a35c801397f07be730bbb7785152c41"
+    },
+    "US-CO": {
+      "file": "Etats-Unis/US-CO.json",
+      "name": "us/colorado",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 4785,
+      "bbox": [
+        37.02314146,
+        -109.0406928,
+        40.988376513333336,
+        -102.1221064
+      ],
+      "bytes": 1313182,
+      "sha256": "3c5c9f9048131fd3b6912008df5ed464fbc4f16b66045f1fd7b5f30cfdc4300a"
+    },
+    "US-CT": {
+      "file": "Etats-Unis/US-CT.json",
+      "name": "us/connecticut",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 2558,
+      "bbox": [
+        40.99931291428571,
+        -73.6731839,
+        42.0333331,
+        -71.7942536
+      ],
+      "bytes": 683828,
+      "sha256": "e02ff9cc52595a95073f3354dcfd1f9f5227fd859bf8641f277cb00b0ae70067"
+    },
+    "US-DC": {
+      "file": "Etats-Unis/US-DC.json",
+      "name": "us/district-of-columbia",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 717,
+      "bbox": [
+        38.8209499,
+        -77.1064745,
+        38.9845268,
+        -76.9133992
+      ],
+      "bytes": 198101,
+      "sha256": "ebad1cef0bfea0d1e34ff66432a78793c366fe06b7c1e1e060dace9cca2c1359"
+    },
+    "US-DE": {
+      "file": "Etats-Unis/US-DE.json",
+      "name": "us/delaware",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 831,
+      "bbox": [
+        38.451632159999996,
+        -75.7799638,
+        39.83381,
+        -75.05160598
+      ],
+      "bytes": 227822,
+      "sha256": "a3065765b63d118ad4afc726157da72760ca27a3dfdb2c8b7b0673d697b4fe09"
+    },
+    "US-FL": {
+      "file": "Etats-Unis/US-FL.json",
+      "name": "us/florida",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 11614,
+      "bbox": [
+        24.54895484,
+        -87.51775506000001,
+        30.9942725,
+        -80.034157
+      ],
+      "bytes": 3136685,
+      "sha256": "997f52f7e6b0a96cbfb9ad0829dd90bba87458472a279aecf1baf1eb26e52328"
+    },
+    "US-GA": {
+      "file": "Etats-Unis/US-GA.json",
+      "name": "Georgia",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 6630,
+      "bbox": [
+        30.523131139999997,
+        -85.5428709,
+        34.988578116666666,
+        -80.8428626
+      ],
+      "bytes": 1772807,
+      "sha256": "88f8ee9b2056bc9b5aefb811a41cf94c4d702c85f2497520e1ff4831f681005c"
+    },
+    "US-HI": {
+      "file": "Etats-Unis/US-HI.json",
+      "name": "us/hawaii",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 847,
+      "bbox": [
+        19.060980960000002,
+        -159.66770172916665,
+        22.2139937,
+        -154.9467378
+      ],
+      "bytes": 223502,
+      "sha256": "d58c2a98f1118a6a446e5af513f5d31f8678c713c5d0863b6ae506743edcb6b5"
+    },
+    "US-IA": {
+      "file": "Etats-Unis/US-IA.json",
+      "name": "us/iowa",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 2540,
+      "bbox": [
+        40.3930171,
+        -96.48874518,
+        43.49022006,
+        -90.17422135882352
+      ],
+      "bytes": 689591,
+      "sha256": "30fdaae1f1648c4ca9fbdf74a6b1b702a338afbe6fca5eb42dd1a9bb0d41e9f1"
+    },
+    "US-ID": {
+      "file": "Etats-Unis/US-ID.json",
+      "name": "us/idaho",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 1353,
+      "bbox": [
+        42.00562766,
+        -117.04046385454545,
+        48.99889518,
+        -111.1116528
+      ],
+      "bytes": 365188,
+      "sha256": "462d2164232c6ed84f5d5cf9f4ca9a939eac6b361194c649ae2f5a739c9a70f4"
+    },
+    "US-IL": {
+      "file": "Etats-Unis/US-IL.json",
+      "name": "us/illinois",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 9076,
+      "bbox": [
+        36.99736098571429,
+        -91.41114697999998,
+        42.498380000000004,
+        -87.52116570000001
+      ],
+      "bytes": 2506443,
+      "sha256": "c9385b5ce1b4b81688e05fd8f8650a71cda54c39d0389b791ed73ab460aea5ec"
+    },
+    "US-IN": {
+      "file": "Etats-Unis/US-IN.json",
+      "name": "us/indiana",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 4493,
+      "bbox": [
+        37.88393767499999,
+        -87.9352616,
+        41.7601464,
+        -84.8163196
+      ],
+      "bytes": 1222092,
+      "sha256": "227b04facb2c0491a0b05cef66a0ce4792bb6a1bf895b870a990c117b4cb9c16"
+    },
+    "US-KS": {
+      "file": "Etats-Unis/US-KS.json",
+      "name": "us/kansas",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 2277,
+      "bbox": [
+        36.99445018,
+        -101.90764242,
+        39.902627079999995,
+        -94.60703126000001
+      ],
+      "bytes": 623385,
+      "sha256": "dd6fc86f5680554c4ac62d4f7abe47b749030119d03b05e7c0c753cd4fd2ea17"
+    },
+    "US-KY": {
+      "file": "Etats-Unis/US-KY.json",
+      "name": "us/kentucky",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 2854,
+      "bbox": [
+        36.50270788,
+        -89.54547136,
+        39.11411002,
+        -82.092987
+      ],
+      "bytes": 764807,
+      "sha256": "5e2565f2b9ca0f0a4540f21049db679aacf11ec075fcb82521596e6448e197ed"
+    },
+    "US-LA": {
+      "file": "Etats-Unis/US-LA.json",
+      "name": "us/louisiana",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 2535,
+      "bbox": [
+        29.279172833333334,
+        -94.04343139999999,
+        33.019155999999995,
+        -89.36044918333334
+      ],
+      "bytes": 685768,
+      "sha256": "dfc41d3e10e19d540e918f4c4f4dd3eea026a369d612688df3162819696c0fa4"
+    },
+    "US-MA": {
+      "file": "Etats-Unis/US-MA.json",
+      "name": "us/massachusetts",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 4516,
+      "bbox": [
+        41.2619764,
+        -73.3657977,
+        42.8689896,
+        -69.9563266
+      ],
+      "bytes": 1207419,
+      "sha256": "274183faf9668a34a227292e298a2869a65423954129817fdd16ab859961a338"
+    },
+    "US-MD": {
+      "file": "Etats-Unis/US-MD.json",
+      "name": "us/maryland",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 4811,
+      "bbox": [
+        37.96828476,
+        -79.41980228,
+        39.72388166,
+        -75.055641
+      ],
+      "bytes": 1312258,
+      "sha256": "754727938ae7345316f0edb711b8b1109ed1a27255d74aa532cbc6b2396a154b"
+    },
+    "US-ME": {
+      "file": "Etats-Unis/US-ME.json",
+      "name": "us/maine",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 1297,
+      "bbox": [
+        43.080412035294124,
+        -71.01071559230769,
+        47.358135100000005,
+        -66.98372174285714
+      ],
+      "bytes": 356707,
+      "sha256": "6f29911e6a3b256d00ef1e573f5806b1472d00acd7d6ecc5abf890af10953a97"
+    },
+    "US-MI": {
+      "file": "Etats-Unis/US-MI.json",
+      "name": "us/michigan",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 10381,
+      "bbox": [
+        41.7091902,
+        -90.19131732,
+        47.470727260000004,
+        -82.4251319
+      ],
+      "bytes": 2870160,
+      "sha256": "cef70b73d8579ad375981d53a223ceaad3c093bef5633369c25fe31201c3148e"
+    },
+    "US-MN": {
+      "file": "Etats-Unis/US-MN.json",
+      "name": "us/minnesota",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 4217,
+      "bbox": [
+        43.503865080000004,
+        -97.21526768571428,
+        49.34484674,
+        -89.69493159090908
+      ],
+      "bytes": 1138782,
+      "sha256": "f0d94bec550fc20f7c44fd03fa4b621e4ee07da0a4d4151a6efb0945302340d4"
+    },
+    "US-MO": {
+      "file": "Etats-Unis/US-MO.json",
+      "name": "us/missouri",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 3761,
+      "bbox": [
+        35.99612437142857,
+        -95.55693726000001,
+        40.57470364285714,
+        -89.3137461
+      ],
+      "bytes": 1017792,
+      "sha256": "800f1e87c2d5daa774043605a91a7cee3ee9956d6034d348beeb377dba621443"
+    },
+    "US-MS": {
+      "file": "Etats-Unis/US-MS.json",
+      "name": "us/mississippi",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 1637,
+      "bbox": [
+        30.2961823,
+        -91.3969697,
+        34.9922068,
+        -88.1056371
+      ],
+      "bytes": 434500,
+      "sha256": "60683e81252f181b7bd2306e288c6f966413acf543d64953f2faaf62bd155a4b"
+    },
+    "US-MT": {
+      "file": "Etats-Unis/US-MT.json",
+      "name": "us/montana",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 1207,
+      "bbox": [
+        44.6575826,
+        -115.89563806000001,
+        48.994782459999996,
+        -104.152636
+      ],
+      "bytes": 318757,
+      "sha256": "22b9bab31f104374cd29d77f8dade53cd7d835b92be4079b84776901d9dcb9f9"
+    },
+    "US-NC": {
+      "file": "Etats-Unis/US-NC.json",
+      "name": "us/north-carolina",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 8431,
+      "bbox": [
+        33.85806041818182,
+        -84.29327512222223,
+        36.5762522,
+        -75.46988209999999
+      ],
+      "bytes": 2309608,
+      "sha256": "1530057a62339fbd9fac713bcbc90a0457e2d69906c3028cbbea65cc0a6ae233"
+    },
+    "US-ND": {
+      "file": "Etats-Unis/US-ND.json",
+      "name": "us/north-dakota",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 539,
+      "bbox": [
+        45.993781240000004,
+        -104.00947055714286,
+        49.0074872,
+        -96.62310248888889
+      ],
+      "bytes": 145742,
+      "sha256": "42252f8e2135e865bf8f944296cfa5f8f4fa9078ea4b7a2e2f73306da51f0c0b"
+    },
+    "US-NE": {
+      "file": "Etats-Unis/US-NE.json",
+      "name": "us/nebraska",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 1412,
+      "bbox": [
+        40.0183505,
+        -103.80927362,
+        43.0008207,
+        -95.59856690000001
+      ],
+      "bytes": 379363,
+      "sha256": "92d78e0a79801d380ab6e712409bdb8c4a1a5db20ec77d3978a4a6ea69ec731b"
+    },
+    "US-NH": {
+      "file": "Etats-Unis/US-NH.json",
+      "name": "us/new-hampshire",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 1611,
+      "bbox": [
+        42.69844756,
+        -72.5497945,
+        45.08535061666666,
+        -70.73382393636363
+      ],
+      "bytes": 436072,
+      "sha256": "9beb38c37f1c9c6d591c6076dd1d57eff3ba901f9307161305bb613cf608458e"
+    },
+    "US-NJ": {
+      "file": "Etats-Unis/US-NJ.json",
+      "name": "us/new-jersey",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 5841,
+      "bbox": [
+        38.9307084,
+        -75.519363,
+        41.3496818,
+        -73.94485106666667
+      ],
+      "bytes": 1562368,
+      "sha256": "77e0309fcda301c5f7ed6789b2ac30cd44dcffa95f4062c9f01d3d753c1298a6"
+    },
+    "US-NM": {
+      "file": "Etats-Unis/US-NM.json",
+      "name": "us/new-mexico",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 1769,
+      "bbox": [
+        31.7823325,
+        -109.04555408750002,
+        36.9940814,
+        -103.03733762727273
+      ],
+      "bytes": 487988,
+      "sha256": "09d306a9ee28a28b8b24ee671d2732dca5fce46af03208522f2891a23dd3fd90"
+    },
+    "US-NV": {
+      "file": "Etats-Unis/US-NV.json",
+      "name": "us/nevada",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 1812,
+      "bbox": [
+        35.014401362499996,
+        -119.97929152352941,
+        41.99736250000001,
+        -114.04225431999998
+      ],
+      "bytes": 499228,
+      "sha256": "6fdf7d7cde24ecf0758fc6c3c96d80ca7db2b489018012536fdbcd74b66b963f"
+    },
+    "US-NY": {
+      "file": "Etats-Unis/US-NY.json",
+      "name": "us/new-york",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 15888,
+      "bbox": [
+        40.5105389,
+        -79.7595288,
+        44.989912714285715,
+        -71.9408426
+      ],
+      "bytes": 4279833,
+      "sha256": "b8b18ba7f161d99e7b0acf93debc8e2ec0771ab7468c3822f141cf7dcc5a7845"
+    },
+    "US-OH": {
+      "file": "Etats-Unis/US-OH.json",
+      "name": "us/ohio",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 8268,
+      "bbox": [
+        38.41081840384615,
+        -84.81977554000001,
+        41.9450876,
+        -80.51786218000001
+      ],
+      "bytes": 2227735,
+      "sha256": "0777d6280ac083e6d8c2d36816cec7a79ac669e4c4c931972088ec9072e9ceb2"
+    },
+    "US-OK": {
+      "file": "Etats-Unis/US-OK.json",
+      "name": "us/oklahoma",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 2544,
+      "bbox": [
+        33.736191385714285,
+        -102.51076598,
+        36.99445018,
+        -94.43548256
+      ],
+      "bytes": 689587,
+      "sha256": "60b5720663ba54a674340d1123e6ea2c69ba73589de6e651f2cf651cda363c7f"
+    },
+    "US-OR": {
+      "file": "Etats-Unis/US-OR.json",
+      "name": "us/oregon",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 3917,
+      "bbox": [
+        41.99736250000001,
+        -124.4990935,
+        46.1932379,
+        -116.83353954285714
+      ],
+      "bytes": 1091381,
+      "sha256": "52fe6d682e301cee013ca84448fc8dfb56e81884b444c2bce8f2446a0954f4d7"
+    },
+    "US-PA": {
+      "file": "Etats-Unis/US-PA.json",
+      "name": "us/pennsylvania",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 9759,
+      "bbox": [
+        39.71968718000001,
+        -80.52166752857144,
+        42.2352628,
+        -74.70548607999999
+      ],
+      "bytes": 2668021,
+      "sha256": "f8745b86c43ccb25a1ebf0f30ff69e78b72e17730b96679b655411951800c6be"
+    },
+    "US-PR": {
+      "file": "Etats-Unis/US-PR.json",
+      "name": "us/puerto-rico",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 1846,
+      "bbox": [
+        17.9606412,
+        -67.2535141,
+        18.5051226,
+        -65.3000399
+      ],
+      "bytes": 494120,
+      "sha256": "afa72004408f2da45048d7ecf8d481ef44cb319117ef4dd0c2bc28faaa3db99c"
+    },
+    "US-RI": {
+      "file": "Etats-Unis/US-RI.json",
+      "name": "us/rhode-island",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 620,
+      "bbox": [
+        41.1725688,
+        -71.8306614,
+        42.0153586,
+        -71.1456954
+      ],
+      "bytes": 164624,
+      "sha256": "25153c7ec049081cc62768c7764de67326cd0ecd7998d449f19a6606ce8ca7d7"
+    },
+    "US-SC": {
+      "file": "Etats-Unis/US-SC.json",
+      "name": "us/south-carolina",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 4340,
+      "bbox": [
+        32.130942559999994,
+        -83.2721743,
+        35.183030352631576,
+        -78.5914196
+      ],
+      "bytes": 1159723,
+      "sha256": "3807a6236393d4e27e4806faf58356624c5d60f06c0cf714a2b94d92e60a639d"
+    },
+    "US-SD": {
+      "file": "Etats-Unis/US-SD.json",
+      "name": "us/south-dakota",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 941,
+      "bbox": [
+        42.504059,
+        -103.8909947,
+        45.93582417272727,
+        -96.4943063
+      ],
+      "bytes": 254953,
+      "sha256": "18c74f2160f568d28b35585e0a2b753abe92386afb3d4e81202ef046ef515fde"
+    },
+    "US-TN": {
+      "file": "Etats-Unis/US-TN.json",
+      "name": "us/tennessee",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 4320,
+      "bbox": [
+        34.98839392,
+        -90.10775421999999,
+        36.6400924,
+        -81.79561303000001
+      ],
+      "bytes": 1153254,
+      "sha256": "a32d5002af9f94c635869e0339e3c5e5645ce903f07ca2010b561084cd951c14"
+    },
+    "US-TX": {
+      "file": "Etats-Unis/US-TX.json",
+      "name": "us/texas",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 18117,
+      "bbox": [
+        25.8325749,
+        -106.6290344,
+        36.50634832000001,
+        -93.57095631111109
+      ],
+      "bytes": 4957872,
+      "sha256": "7b22fe7ec963037fcbb2026438ff0299265ab21496d801230bc56e046a302826"
+    },
+    "US-UT": {
+      "file": "Etats-Unis/US-UT.json",
+      "name": "us/utah",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 2271,
+      "bbox": [
+        36.99940138,
+        -114.04225431999998,
+        41.97625747142856,
+        -109.18595227777776
+      ],
+      "bytes": 625178,
+      "sha256": "f4cff496e9fe5ab0b02cbec55fc4ef33a509907f4a9192f6854c03b710decdce"
+    },
+    "US-VA": {
+      "file": "Etats-Unis/US-VA.json",
+      "name": "us/virginia",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 7617,
+      "bbox": [
+        36.5389324,
+        -83.6243945,
+        39.3823557,
+        -75.35397473333333
+      ],
+      "bytes": 2091715,
+      "sha256": "1dc8c20f8de283d11d35057d46e5d5380229d471f536817a6319d8ed07f7580f"
+    },
+    "US-VI": {
+      "file": "Etats-Unis/US-VI.json",
+      "name": "us/us-virgin-islands",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 43,
+      "bbox": [
+        17.6976882,
+        -64.96059468000001,
+        18.3567059,
+        -64.6083516
+      ],
+      "bytes": 10899,
+      "sha256": "f3ac863a23882682892c489548a94713496823d928485bcf048f9e8fbc542e71"
+    },
+    "US-VT": {
+      "file": "Etats-Unis/US-VT.json",
+      "name": "us/vermont",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 830,
+      "bbox": [
+        42.750423566666676,
+        -73.40673682857143,
+        45.015625012499996,
+        -71.5337852
+      ],
+      "bytes": 228818,
+      "sha256": "7af382a8a16150afd26d56482778bde42d787d6af58476d308f2ab26c34fcff3"
+    },
+    "US-WA": {
+      "file": "Etats-Unis/US-WA.json",
+      "name": "us/washington",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 6900,
+      "bbox": [
+        45.5759389,
+        -124.6593621,
+        49.0066178,
+        -117.03776710000002
+      ],
+      "bytes": 1880330,
+      "sha256": "ac5c410164bef61d1800be2fb28ac5987097e6b264c361df624a605e2c1726e9"
+    },
+    "US-WI": {
+      "file": "Etats-Unis/US-WI.json",
+      "name": "us/wisconsin",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 4557,
+      "bbox": [
+        42.4932148,
+        -92.8023972,
+        46.85754865999999,
+        -86.93026668888889
+      ],
+      "bytes": 1239334,
+      "sha256": "0356bf1b13d8af89524f3c645ff5db1485eab7e4adb6d91f59d96d8b6d90442b"
+    },
+    "US-WV": {
+      "file": "Etats-Unis/US-WV.json",
+      "name": "us/west-virginia",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 1530,
+      "bbox": [
+        37.2439817,
+        -82.603431,
+        40.615754259999996,
+        -77.7429033
+      ],
+      "bytes": 404767,
+      "sha256": "44bbcd66245704425a6e61fe711cdf5b374441f4846574cfc0defba3f60adfac"
+    },
+    "US-WY": {
+      "file": "Etats-Unis/US-WY.json",
+      "name": "us/wyoming",
+      "country": "US",
+      "country_name": "États-Unis",
+      "version": "2026-10-14",
+      "generated_at": "2026-10-14T02:01:02.635Z",
+      "count": 476,
+      "bbox": [
+        41.09811378571429,
+        -111.0203142,
+        44.9755563,
+        -104.06656526666667
+      ],
+      "bytes": 129267,
+      "sha256": "0527aa07f612f837cf4e5a5c248cc2eed8c81be6fe9d08e6af3e86f2db974f63"
     }
   }
 }
